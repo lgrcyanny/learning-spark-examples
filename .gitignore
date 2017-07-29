@@ -1,4 +1,6 @@
 .idea/
 learning-spark-examples.iml
 *Test*
+deploy.sh
+target/
 
